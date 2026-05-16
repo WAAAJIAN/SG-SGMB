@@ -416,7 +416,7 @@
         "uuid": "b172e4a5-d9fb-488b-8521-d5778a7acb4c"
       }
     ],
-    "used_designators": "U1",
+    "used_designators": "ceremic1,C1,#PWR1-6,RPi Stacking Header 2x20 Pitch 2.54mm1,U1",
     "variants": []
   },
   "sheets": [
