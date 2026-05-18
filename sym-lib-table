@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "CP2102N-A02-GQFN28") (type "KiCad") (uri "/Users/weijian/Downloads/CP2102N-A02-GQFN28/CP2102N-A02-GQFN28.kicad_sym") (options "") (descr ""))
+)

@@ -286,12 +286,7 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": [
-      {
-        "netclass": "Default",
-        "pattern": "USB_DN"
-      }
-    ]
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
@@ -421,7 +416,7 @@
         "uuid": "b172e4a5-d9fb-488b-8521-d5778a7acb4c"
       }
     ],
-    "used_designators": "R7-14,D1-4,#PWR12-23,C4-6,J1,U2",
+    "used_designators": "ceremic1,RPi4_ModelB_Stacking_Header_2x20_Pitch_2.54mm1,electrolytic1,R1-2,C1-3,#PWR1-11,U1-2",
     "variants": []
   },
   "sheets": [
@@ -436,14 +431,6 @@
     [
       "5561d0e6-4c18-4338-b9d5-de54dacedf05",
       "RPi_interface"
-    ],
-    [
-      "2675bed2-f8bf-4541-8f1e-8806ceb80bf9",
-      "Peripherals"
-    ],
-    [
-      "f174dd23-072e-477e-be25-0335f5f63d3a",
-      "Power_routes"
     ]
   ],
   "text_variables": {},
