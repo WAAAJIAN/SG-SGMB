@@ -421,7 +421,7 @@
         "uuid": "b172e4a5-d9fb-488b-8521-d5778a7acb4c"
       }
     ],
-    "used_designators": "R7-14,D1-4,#PWR12-23,C4-6,J1,U2",
+    "used_designators": "L1-9,SW1-8,U1-13,Q1-7,#PWR1-96,C1-74,D1-5,RPi4_ModelB_Stacking_Header_2x20_Pitch_2.54mm1,R1-47,SN74LVC2G1,J1-11",
     "variants": []
   },
   "sheets": [
@@ -444,6 +444,10 @@
     [
       "f174dd23-072e-477e-be25-0335f5f63d3a",
       "Power_routes"
+    ],
+    [
+      "b43bcf30-e686-4872-a4f7-c2a270bd3305",
+      "Programmer"
     ]
   ],
   "text_variables": {},
