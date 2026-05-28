@@ -3736,7 +3736,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 68.58 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -3747,7 +3747,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R61C105KA12-01.pdf"
 			(at 68.58 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -4091,7 +4091,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 132.08 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -4102,7 +4102,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"
 			(at 132.08 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -4326,7 +4326,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 68.58 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -4337,7 +4337,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"
 			(at 68.58 78.74 0)
 			(hide yes)
 			(show_name no)

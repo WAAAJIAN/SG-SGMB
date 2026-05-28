@@ -6030,7 +6030,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 250.19 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -6041,7 +6041,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"
 			(at 250.19 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -7069,7 +7069,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 250.19 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -7080,7 +7080,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"
 			(at 250.19 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -8754,7 +8754,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 111.76 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -8765,7 +8765,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"
 			(at 111.76 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -11752,7 +11752,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 111.76 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -11763,7 +11763,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"
 			(at 111.76 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -12227,7 +12227,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 248.92 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -12238,7 +12238,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"
 			(at 248.92 53.34 0)
 			(hide yes)
 			(show_name no)
